@@ -277,7 +277,7 @@ Please do not reproduce, redistribute or commercially use the original content w
 <p align="center">
   <a href="https://www.youtube.com/@ThinkHubbydaksh">YouTube</a>
   •
-  <a href="https://github.com/">GitHub</a>
+  <a href="https://github.com/dk-khandelwal06">GitHub</a>
 </p>
 
 <p align="center">
