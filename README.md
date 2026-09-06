@@ -83,7 +83,7 @@ Topics may include:
 
 | 🖼️ Thumbnail | 📅 Date | 🎯 Topic / Video | 📑 Slides | ▶️ Watch |
 | :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/06.png" width="260"> | **05 Sep 2026** | **What Is Data Science? The Complete Journey from Data to Decision** | [📑 View Slides](https://drive.google.com/file/d/1eU9w4qJo0SCOC9oL0_Hg0YvAPutjrLuX/view?usp=drive_link) | [▶️ Watch](YOUTUBE_LINK_06) |
+| <img src="thumbnails/06.png" width="260"> | **05 Sep 2026** | **What Is Data Science? The Complete Journey from Data to Decision** | [📑 View Slides](https://drive.google.com/file/d/1eU9w4qJo0SCOC9oL0_Hg0YvAPutjrLuX/view?usp=drive_link) | [▶️ Watch](https://youtu.be/xcan1GKHB20?si=y53c0nXH9ReBe53G) |
 | <img src="thumbnails/07.png" width="260"> | **12 Sep 2026** | **Coming Soon** | [📑 View Slides](DRIVE_LINK_07) | [▶️ Watch](YOUTUBE_LINK_07) |
 | <img src="thumbnails/08.png" width="260"> | **19 Sep 2026** | **Coming Soon** | [📑 View Slides](DRIVE_LINK_08) | [▶️ Watch](YOUTUBE_LINK_08) |
 | <img src="thumbnails/09.png" width="260"> | **26 Sep 2026** | **Coming Soon** | [📑 View Slides](DRIVE_LINK_09) | [▶️ Watch](YOUTUBE_LINK_09) |
