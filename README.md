@@ -38,7 +38,6 @@ The series officially started on **1st August 2026** and continues with approxim
 
 ---
 
-<p align="center">
 ## 🧠 What You'll Find Here
 
 This repository serves as the public archive for the ThinkHub Weekly journey.
@@ -55,7 +54,6 @@ Topics may include:
 |    🛠️ **Developer Skills**    | Git, GitHub, VS Code, portfolios and development workflows  |
 |     🎓 **Student Learning**    | Resources, strategies and guidance for students             |
 |     🌍 **Future & Trends**     | Emerging technologies and changing career landscapes        |
-</p>
 
 ---
 
