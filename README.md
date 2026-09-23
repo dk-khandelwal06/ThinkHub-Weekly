@@ -86,7 +86,7 @@ Topics may include:
 | <img src="thumbnails/06.png" width="260"> | **05 Sep 2026** | **What Is Data Science? The Complete Journey from Data to Decision** | [📑 View Slides](https://drive.google.com/file/d/1eU9w4qJo0SCOC9oL0_Hg0YvAPutjrLuX/view?usp=drive_link) | [▶️ Watch](https://youtu.be/xcan1GKHB20?si=y53c0nXH9ReBe53G) |
 | <img src="thumbnails/07.png" width="260"> | **12 Sep 2026** | **How Does ChatGPT Actually Work? 🤯 From Your Question to an AI Answer** | [📑 View Slides](https://drive.google.com/file/d/1pChjB1lB7FBRd30SXENIBb2nZhMEqwb6/view?usp=sharing) | [▶️ Watch](https://youtu.be/M2MaBJ0WOu0?si=LUv-6bBreUgGqyEn) |
 | <img src="thumbnails/08.png" width="260"> | **19 Sep 2026** | **The AI Arms Race: Who Will Control the Future of AI?** | [📑 View Slides](https://drive.google.com/file/d/1G_fOHdJKEMnvjromxI3quHa_tJuPpNE-/view?usp=drive_link) | [▶️ Watch](https://youtu.be/v28_vEzTCIU?si=ahFAgQVslv_EnZ5D) |
-| <img src="thumbnails/09.png" width="260"> | **26 Sep 2026** | **How Does Google Maps Know There’s Traffic Ahead ? 🚗📍** | [📑 View Slides](https://drive.google.com/file/d/1WaVsAB6tNDsruNw9UfQViI1vqfYNh14b/view?usp=drive_link) | [▶️ Watch](YOUTUBE_LINK_09) |
+| <img src="thumbnails/09.png" width="260"> | **26 Sep 2026** | **How Does Google Maps Know There’s Traffic Ahead ? 🚗📍** | [📑 View Slides](https://drive.google.com/file/d/1WaVsAB6tNDsruNw9UfQViI1vqfYNh14b/view?usp=drive_link) | [▶️ Watch](https://youtu.be/z2jTe7bky0Y?si=IBEfOwzj37Ytf_f6) |
 
 ---
 
