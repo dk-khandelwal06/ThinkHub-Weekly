@@ -94,11 +94,11 @@ Topics may include:
 
 | 🖼️ Thumbnail | 📅 Date | 🎯 Topic / Video | 📑 Slides | ▶️ Watch |
 | :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/10.png" width="260"> | **03 Oct 2026** | **What Is Data Science? The Complete Journey from Data to Decision** | [📑 View Slides](https://drive.google.com/file/d/1eU9w4qJo0SCOC9oL0_Hg0YvAPutjrLuX/view?usp=drive_link) | [▶️ Watch](https://youtu.be/xcan1GKHB20?si=y53c0nXH9ReBe53G) |
-| <img src="thumbnails/11.png" width="260"> | **10 Oct 2026** | **How Does ChatGPT Actually Work? 🤯 From Your Question to an AI Answer** | [📑 View Slides](https://drive.google.com/file/d/1pChjB1lB7FBRd30SXENIBb2nZhMEqwb6/view?usp=sharing) | [▶️ Watch](https://youtu.be/M2MaBJ0WOu0?si=LUv-6bBreUgGqyEn) |
-| <img src="thumbnails/12.png" width="260"> | **17 Oct 2026** | **The AI Arms Race: Who Will Control the Future of AI?** | [📑 View Slides](https://drive.google.com/file/d/1G_fOHdJKEMnvjromxI3quHa_tJuPpNE-/view?usp=drive_link) | [▶️ Watch](https://youtu.be/v28_vEzTCIU?si=ahFAgQVslv_EnZ5D) |
-| <img src="thumbnails/13.png" width="260"> | **24 Oct 2026** | **How Does Google Maps Know There’s Traffic Ahead ? 🚗📍** | [📑 View Slides](https://drive.google.com/file/d/1WaVsAB6tNDsruNw9UfQViI1vqfYNh14b/view?usp=drive_link) | [▶️ Watch](https://youtu.be/z2jTe7bky0Y?si=IBEfOwzj37Ytf_f6) |
-| <img src="thumbnails/14.png" width="260"> | **31 Oct 2026** | **How Does Google Maps Know There’s Traffic Ahead ? 🚗📍** | [📑 View Slides](https://drive.google.com/file/d/1WaVsAB6tNDsruNw9UfQViI1vqfYNh14b/view?usp=drive_link) | [▶️ Watch](https://youtu.be/z2jTe7bky0Y?si=IBEfOwzj37Ytf_f6) |
+| <img src="thumbnails/10.png" width="260"> | **03 Oct 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/11.png" width="260"> | **10 Oct 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/12.png" width="260"> | **17 Oct 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/13.png" width="260"> | **24 Oct 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/14.png" width="260"> | **31 Oct 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
 
 ---
 
