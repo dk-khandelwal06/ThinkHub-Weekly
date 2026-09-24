@@ -102,6 +102,17 @@ Topics may include:
 
 ---
 
+### 📅 November 2026
+
+| 🖼️ Thumbnail | 📅 Date | 🎯 Topic / Video | 📑 Slides | ▶️ Watch |
+| :---: | :---: | :--- | :---: | :---: |
+| <img src="thumbnails/15.png" width="260"> | **07 Nov 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/16.png" width="260"> | **14 Nov 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/17.png" width="260"> | **21 Nov 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+| <img src="thumbnails/18.png" width="260"> | **28 Nov 2026** | **** | [📑 View Slides]() | [▶️ Watch]() |
+
+---
+
 ## 📊 Series Snapshot
 
 <p align="center">
