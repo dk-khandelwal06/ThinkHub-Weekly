@@ -94,7 +94,7 @@ Topics may include:
 
 | 🖼️ Thumbnail | 📅 Date | 🎯 Topic / Video | 📑 Slides | ▶️ Watch |
 | :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/10.png" width="260"> | **03 Oct 2026** | **💳 How Does UPI Actually Work? 🤔 What Happens After You Scan a QR Code?** | [📑 View Slides](https://drive.google.com/file/d/1ARc2uShXgeJJINrxz7E5OIpI-fR3Vz3z/view?usp=drive_link) | [▶️ Watch]() |
+| <img src="thumbnails/10.png" width="260"> | **03 Oct 2026** | **💳 How Does UPI Actually Work? 🤔 What Happens After You Scan a QR Code?** | [📑 View Slides](https://drive.google.com/file/d/1ARc2uShXgeJJINrxz7E5OIpI-fR3Vz3z/view?usp=drive_link) | [▶️ Watch](https://youtu.be/Ry-ipmdSIYY?si=vWKIypAH_UC9u6SJ) |
 | <img src="thumbnails/11.png" width="260"> | **10 Oct 2026** | **🌐 How Does the Internet Actually Reach Your Phone? 📱🤔** | [📑 View Slides]() | [▶️ Watch]() |
 | <img src="thumbnails/12.png" width="260"> | **17 Oct 2026** | **💻 How Are Computer Chips Actually Made? 🧠 From Sand to a Tiny Chip ⚡** | [📑 View Slides]() | [▶️ Watch]() |
 | <img src="thumbnails/13.png" width="260"> | **24 Oct 2026** | **⚛️ Can Quantum Computers Break the Internet? 🔐💻** | [📑 View Slides]() | [▶️ Watch]() |
